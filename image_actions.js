@@ -3,12 +3,12 @@ $l(() => {
     debugger
     $l.ajax({
       method: "GET",
-      url: "http://api.giphy.com/v1/gifs/search?q=cat&api_key=dc6zaTOxFJmzC&limit=1&rating=g",
+      url: "http://api.giphy.com/v1/gifs/random?api_key=dc6zaTOxFJmzC&limit=1&rating=g&tag=cat",
       success: (res) => {
         debugger
         const node = document.createElement("li");
-        const imgUrl = res.data.url;
-        $l(node).append(res);
+        const imgUrl = res.data.image_url;
+        node.innerHTML = `<img src="${imgUrl}">`;
         $l('.cat-list').append(node);
       },
       error: (res) => console.log(res),
