@@ -1,0 +1,65 @@
+img {
+  width: 300px;
+  height: 200px;
+}
+
+.image-list {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  border: 1px solid black;
+}
+
+.cat-list-li, .dog-list-li {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.cat-list-li {
+  background-color: red;
+  padding: 10px;
+}
+
+.dog-list-li {
+  background-color: green;
+  padding: 10px;
+}
+
+.orange-cat {
+  border: 5px solid orange;
+}
+
+.french-cat {
+  border: 5px solid blue;
+}
+
+.sad-cat {
+  border: 5px solid black;
+}
+
+.kitten-cats {
+  border: 5px solid pink;
+}
+
+.coding-cat {
+  border: 5px solid green;
+}
+
+.music-dog {
+  border: 5px solid yellow;
+}
+
+.hungry-dog {
+  border: 5px solid red;
+}
+
+.flower-dog {
+  border: 5px solid purple;
+}
+
+.talking-dog {
+  border: 5px solid gold;
+}
+
+.doge-dog {
+  border: 5px solid lightblue;
+}
