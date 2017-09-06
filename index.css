@@ -1,3 +1,7 @@
+* {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
 img {
   width: 300px;
   height: 200px;
@@ -24,42 +28,6 @@ img {
   padding: 10px;
 }
 
-.orange-cat {
-  border: 5px solid orange;
-}
-
-.french-cat {
-  border: 5px solid blue;
-}
-
-.sad-cat {
-  border: 5px solid black;
-}
-
-.kitten-cats {
-  border: 5px solid pink;
-}
-
-.coding-cat {
-  border: 5px solid green;
-}
-
-.music-dog {
-  border: 5px solid yellow;
-}
-
-.hungry-dog {
-  border: 5px solid red;
-}
-
-.flower-dog {
-  border: 5px solid purple;
-}
-
-.talking-dog {
-  border: 5px solid gold;
-}
-
-.doge-dog {
-  border: 5px solid lightblue;
+ul {
+  list-style: none;
 }
