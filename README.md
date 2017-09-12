@@ -1,5 +1,5 @@
 # FreeDOM
-
+[Live Link](http://brendanko.com/FreeDom/)
 ## About
 FreeDOM is a custom library with methods to select certain HTML elements as well as execute specific functions. By using this library and the Giphy API, users can see a sample of endearing cat and dog photos along with fun GIFs from the latter.
 
