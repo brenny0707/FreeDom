@@ -4,7 +4,7 @@
 FreeDOM is a custom library with methods to select certain HTML elements as well as execute specific functions. By using this library and the Giphy API, users can see a sample of endearing cat and dog photos along with fun GIFs from the latter.
 
 ## Instructions
-To use FreeDOM, please clone or download this repository and open `index.html`. Make sure to run webpack with the output file `freeDOM.js`. From there, you will have access to several buttons, two of which add a GIF of either cats or dogs as well as remove the styling on the current list of photos for each respective animal.
+To use FreeDOM, please use the live link above, clone or download this repository and open `index.html`. If you replicate the repo, make sure to run webpack with the output file `freeDOM.js`. From there, you will have access to several buttons, two of which add a GIF of either cats or dogs as well as remove the styling on the current list of photos for each respective animal.
 
 ![screenshot](FreeDOM.png)
 
